@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Hello, my name is Christian Alexis Juarez Rdz, I am from García Nuevo Leon in Mexico, I am a computer systems engineer and I am currently a full-stack Jr. developer.<br>I really like to learn, I am currently learning Angular to be able to master it perfectly.</h4>
+<h4 align="center">Hello, my name is Christian Alexis Juarez Rdz, I am from García Nuevo Leon in Mexico, I am a computer systems engineer and I am currently a full-stack Jr. developer.<br>I really like to learn, I am currently learning Phyton to be able to master it perfectly.</h4>
 
 ###
 
