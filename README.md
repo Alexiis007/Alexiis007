@@ -19,9 +19,13 @@
 
 ###
 
-<p align="center">➡️My web portfolio : https://alexis-web-e1006.web.app/ 🌐🌐</p>
+
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Alexiis007/count.svg?"  />
+</div>
 
 ###
 
